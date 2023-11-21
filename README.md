@@ -4,7 +4,7 @@ This project is created using React and Moralis.
 
 Smart contracts of this project are written in Solidity and deployed on the polygon_mumbai testnet.
 
-Currently this project is depraced as it was using Moralis v1, and most of the frontend has become redundant.
+Currently this project is deprecated as it was using Moralis v1, and most of the frontend has become redundant.
  
 Will soon migrate it to Morals v2.
 
